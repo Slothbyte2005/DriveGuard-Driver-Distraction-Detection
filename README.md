@@ -12,6 +12,7 @@ This project detects distracted driving behaviors using **deep learning** and th
 - Reaching behind
 - Hair & makeup
 - Talking to passengers
+
 - 
 --
 
