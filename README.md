@@ -13,8 +13,7 @@ This project detects distracted driving behaviors using **deep learning** and th
 - Hair & makeup
 - Talking to passengers
 
-
----
+--
 
 ## 📂 Dataset
 Download from Kaggle:  
